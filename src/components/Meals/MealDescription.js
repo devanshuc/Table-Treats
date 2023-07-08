@@ -1,6 +1,8 @@
+import styles from "./MealDescription.module.css";
+
 const MealDescription = () => {
 	return (
-		<section>
+		<section className={styles.desc}>
 			<h2>Delicious Food, Delivered to you.</h2>
 			<p>
 				Choose your favorite meal from our broad selection of available meals
