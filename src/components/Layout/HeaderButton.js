@@ -2,7 +2,7 @@ import styles from "./HeaderButton.module.css";
 import CartIcon from "../Cart/CartIcon";
 const HeaderButton = (props) => {
 	return (
-		<button className={styles.button} onClick={props.onClick}>
+		<button className={styles.button} onClick={props.onTouch}>
 			<span className={styles.icon}>
 				<CartIcon />
 			</span>
