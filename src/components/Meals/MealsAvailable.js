@@ -4,28 +4,51 @@ import MealItem from "./MealItem/MealItem";
 
 const DUMMY_MEALS = [
 	{
-		id: "m1",
-		name: "Sushi",
-		description: "Finest fish and veggies",
-		price: 22.99,
+		id: "b1",
+		name: "CORN & PANEER BHURJI",
+		description:
+			"Paneer & corn with onions, tomatoes, green chilies, coriander and homemade spices",
+		price: 250,
 	},
 	{
-		id: "m2",
-		name: "Schnitzel",
-		description: "A german specialty!",
-		price: 16.5,
+		id: "b2",
+		name: "JHAKAAS DESI OMELETTE ",
+		description: "Sharmaji inspired desi style omelette",
+		price: 235,
 	},
 	{
-		id: "m3",
-		name: "Barbecue Burger",
-		description: "American, raw, meaty",
-		price: 12.99,
+		id: "b3",
+		name: "ANDA BHURJI",
+		description:
+			"Scrambled egg with onions, tomatoes, green chilies, coriander and homemade spices",
+		price: 225,
 	},
 	{
-		id: "m4",
-		name: "Green Bowl",
-		description: "Healthy...and green...",
-		price: 18.99,
+		id: "b4",
+		name: "ITALIAN OMELETTE",
+		description:
+			"Omelette, sausages, white onions, multi-grain toast, potato rosti",
+		price: 275,
+	},
+	{
+		id: "b5",
+		name: "BUN MASKA CHAI",
+		description:
+			"Mumbai's breakfast on the go. Hot oven fresh buttered sweet bun served with our masala chai 'cutting'",
+		price: 135,
+	},
+	{
+		id: "b6",
+		name: "PAO BHAJI CHEESY GRIT",
+		description: "Spicy blend of vegetables & cheese served with butter pao",
+		price: 275,
+	},
+	{
+		id: "b7",
+		name: "KEEMA GHOTALA WITH MASKA PAO/PARATHA",
+		description:
+			"Lamb mince in traditional Indian spices cooked on a heavy griddle, topped with eggs and served with traditional Mumbai buttered pao or paratha",
+		price: 450,
 	},
 ];
 
